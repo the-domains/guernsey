@@ -1,14 +1,26 @@
-layout_spectrum: 0.6102313487790525
-typography_spectrum: 0.6020427327603102
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2233311
   brandStrength: 0.8683499866165221
-  lightness: 0.4650617593433708
-  saturation: 0.2233310705050826
-  rhythmicContrast: 0.7252432403620332
+  lightness: 0.7150537
   brandColors:
     - '#004358'
     - '#1F8A70'
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+  rhythmicContrast: 0.5448028
+typography_spectrum: 0.6020427327603102
+layout_spectrum: 0.8064516
 name: Guernsey
