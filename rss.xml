@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Guernsey]]></title>
         <description><![CDATA[Guernsey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guernsey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 16:54:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 16:54:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guernsey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home - Ole Smoky Tennessee Moonshine]]></title>
+            <description><![CDATA[<article><h1>Home - Ole Smoky Tennessee Moonshine</h1><p>Ole Smoky Moonshine - Born from heart and history; born from appalachian mud and mist; born from passed-down secrets and tradition...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcc461ae0b7ff1af004998d3a8bc60358c68bcab.jpg"></article>]]></description>
+            <link>http://olesmoky.com/</link>
+            <guid isPermaLink="false">5bda4e91-93ff-4272-9d58-c7c162d52088</guid>
+            <pubDate>Sun, 15 May 2016 16:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frank Guernsey | LinkedIn]]></title>
             <description><![CDATA[<article><h1>Frank Guernsey | LinkedIn</h1><p>Developed the marketing infrastructure for the wholesale business, recruited an entire department including national field marketing team, sales support team, and an internal art department</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eef7c73f70f2059329a480617a392a6f8af45c9a.jpg"></article>]]></description>
